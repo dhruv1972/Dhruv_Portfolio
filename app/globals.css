@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 248, 250, 252;
+  /* slate-50 */
+  --background-rgb: 15, 23, 42;
+  /* slate-900 */
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(var(--background-rgb));
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0ea5e9;
+  /* Sky-500 */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0284c7;
+  /* Sky-600 */
+}
+
+/* Smooth animations for page transitions */
+@layer utilities {
+  .transition-all-200 {
+    transition: all 0.2s ease-in-out;
+  }
+
+  .transition-all-300 {
+    transition: all 0.3s ease-in-out;
+  }
+}
