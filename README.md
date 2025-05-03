@@ -39,7 +39,6 @@ Before deploying, you'll need to add the following assets to the `public` direct
 
 - `/profile.jpg` - A profile photo for the hero section
 - `/projects/snapbrief.jpg` - Project image
-- `/projects/taskify.jpg` - Project image
 - `/projects/resourcehub.jpg` - Project image
 
 ## Built With
