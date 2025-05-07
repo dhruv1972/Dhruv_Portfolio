@@ -15,7 +15,7 @@ const Footer = () => {
           </p>
           <div className="flex gap-4">
             <motion.a
-              href="https://github.com/dhruv-chavda"
+              href="https://github.com/dhruv1972"
               target="_blank"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
@@ -24,7 +24,7 @@ const Footer = () => {
               <FaGithub size={24} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/dhruv-chavda"
+              href="https://www.linkedin.com/in/dhruv-chavda-220775214/"
               target="_blank"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
