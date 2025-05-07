@@ -21,24 +21,6 @@ const About = () => {
             efficient and user-friendly applications. I have experience working with various technologies including
             Node.js, React, Next.js, and more.
           </p>
-
-          <p>
-            I'm currently pursuing a Post-Graduate diploma in Web Development at Humber College, expected to graduate in December 2025.
-            Prior to that, I completed a PG diploma in Business Analysis from Sheridan College and hold a Bachelor's degree in
-            Computer Engineering from Gujarat Technological University.
-          </p>
-
-          <p>
-            My professional experience includes working as a Software Developer at Royal Technosoft Pvt. Ltd., where I engineered
-            secure authentication systems, developed REST APIs, and created reusable components for high-traffic platforms. I'm
-            passionate about building scalable applications and improving user experiences through clean, maintainable code.
-          </p>
-
-          <p>
-            I'm open to new opportunities and challenges that will allow me to further develop my skills and contribute to
-            innovative projects. Feel free to reach out if you'd like to discuss potential collaborations or just have a chat
-            about technology!
-          </p>
         </motion.div>
 
         <motion.div
