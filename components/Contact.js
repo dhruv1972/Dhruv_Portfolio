@@ -102,7 +102,7 @@ const Contact = () => {
                 <h4 className="font-medium mb-3 text-light">Connect with me:</h4>
                 <div className="flex gap-4">
                   <motion.a
-                    href="https://github.com/dhruv-chavda"
+                    href="https://github.com/dhruv1972"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ y: -3 }}
@@ -112,7 +112,7 @@ const Contact = () => {
                     <FaGithub size={24} />
                   </motion.a>
                   <motion.a
-                    href="https://linkedin.com/in/dhruv-chavda"
+                    href="https://www.linkedin.com/in/dhruv-chavda-220775214/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ y: -3 }}
